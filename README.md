@@ -50,9 +50,15 @@
 
 ## ✏️ Tips
 
-- *: Our Papers for EEG TO 3D Generation
+- **Just click on the content to jump to the list of papers in that direction.**
+  
+  **点击content的划分即可跳转至该方向的论文列表**
 
-- :octocat:: Code
+- **Our Papers for EEG TO 3D Generation:**
+  
+  [3D-Telepathy: Reconstructing 3D Objects from EEG Signals](https://arxiv.org/abs/2506.21843)
+  
+  [Online Oral Presentation](https://vimeo.com/1095993898)
 
 - [🥰 : Star History](#s0)
 
@@ -95,6 +101,7 @@ This list is compiled for academic reference only; copyrights for the papers bel
 
 
 [![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,65:4F46E5,100:22D3EE&text=Back%20to%20Top&section=footer&fontSize=30&fontAlignY=65&fontColor=FFFFFF)](#top)
+
 
 
 
