@@ -16,7 +16,7 @@
 
 </div>
 
-**🦉 Contributors: [Jionghao Cheng (22' HDU Undergraduate)](https://github.com/Alita02384), [Yifan Cheng (24' HDU Undergraduate)](), [Yifei Sun (22' HDU-ITMO Undergraduate)](https://diaoquesang.github.io/), [Junhao Jia (23' HDU Undergraduate)](https://github.com/BeistMedAI)**
+**🦉 Contributors: [Jionghao Cheng (22' HDU Undergraduate)](https://github.com/Alita02384), [Yifan Chen (24' HDU Undergraduate)](), [Yifei Sun (22' HDU-ITMO Undergraduate)](https://diaoquesang.github.io/), [Junhao Jia (23' HDU Undergraduate)](https://github.com/BeistMedAI)**
 
 **🎓 DeepWiki: [Generating GitHub Knowledge Base Documentation in One Click](https://deepwiki.com/Alita02384/Paperlist-for-neural-and-3D-generation).**
 
@@ -101,6 +101,7 @@ This list is compiled for academic reference only; copyrights for the papers bel
 
 
 [![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,65:4F46E5,100:22D3EE&text=Back%20to%20Top&section=footer&fontSize=30&fontAlignY=65&fontColor=FFFFFF)](#top)
+
 
 
 
