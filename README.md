@@ -32,6 +32,12 @@
   <a href="https://www.sribd.cn/"><img src="logos/SRIBD.png" height="42" alt="SRIBD" /></a>
 </p>
 
+## Introduce
+
+A shared library of papers in the field of neural signal-to-3D generation. Members can add papers in related areas or explore new areas at any time. Notes on papers after reading them are recorded in the README.md file in the corresponding folder. This facilitates sharing of papers and their thoughts among members.
+
+一个神经信号-3D生成领域的共享论文库，成员可以随时添加相关方向的论文，或者开辟新的方向。将阅读后论文的笔记记录在对应文件夹的README.md里。方便成员之间共享论文以及阅读后的想法。
+
 ## 📇 Contents
 - [**1. Important Paper for us**](Important_paper/README.md)
 - [**2. EEG to 3D Generation**](EEG_to_3D/README.md)
@@ -101,6 +107,7 @@ This list is compiled for academic reference only; copyrights for the papers bel
 
 
 [![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,65:4F46E5,100:22D3EE&text=Back%20to%20Top&section=footer&fontSize=30&fontAlignY=65&fontColor=FFFFFF)](#top)
+
 
 
 
