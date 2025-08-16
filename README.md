@@ -34,19 +34,19 @@
 
 ## 📇 Contents
 - [**1. Important Paper for us**](Important_paper/README.md)
-- [**2. EEG to 3D Generation**](#s2)
-- [**3. fMRI to 3D**](#s3)
-- [**4. EEG to 2D Image**](#s4)
-- [**5. EEG Big Model**](#s5)
-- [**6. fMRI to 2D Image**](#s6)
-- [**7. fMRI to Video**](#s7)
-- [**8. EEG and fMRI to 2D Image**](#s8)
-- [**9. Neurals to Other**](#s9)
-- [**10. 3D Generation**](#s10)
-- [**11. Image to Image**](#s11)
-- [**12. Base Tech Paper**](#s12)
-- [**13. Dataset**](#s13)
-- [**14. EEG to Text**](#s14)
+- [**2. EEG to 3D Generation**](EEG_to_3D/README.md)
+- [**3. fMRI to 3D**](fMRI_to_3D/README.md)
+- [**4. EEG to 2D Image**](EEG_to_2D_Image/README.md)
+- [**5. EEG Big Model**](EEG_Big_Model/README.md)
+- [**6. fMRI to 2D Image**](fMRI_to_2D_Image/README.md)
+- [**7. fMRI to Video**](fMRI_to_Video/README.md)
+- [**8. EEG and fMRI to 2D Image**](EEG_and_fMRI_to_2D _Image/README.md)
+- [**9. Neurals to Other**](Neurals_to_Other/README.md)
+- [**10. 3D Generation**](3D_Generation/README.md)
+- [**11. Image to Image**](Image_to_Image/README.md)
+- [**12. Base Tech Paper**](Base_Tech_Paper/README.md)
+- [**13. Dataset**](Dataset/README.md)
+- [**14. EEG to Text**](EEG_to_Text/README.md)
 
 ## ✏️ Tips
 
@@ -56,224 +56,18 @@
 
 - [🥰 : Star History](#s0)
 
-# 2. EEG to 3D Generation <div id = "s2"></div>
+## ⚠️ Disclaimer
 
-- [[CONFERENCE YEAR] **Paper Title Goes Here**](path-to-paper)
-  
-  *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
+**Important Notice:**
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/your-image-asset-id" width="50%">
-</div>
+This GitHub repository is a non-commercial project intended for personal academic research.
 
-<details close>
-<summary><b>📋 Abstract (Click to Expand)</b></summary>
-Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
-</details>
+1.  **Source of Materials:** All papers contained herein were sourced from official, publicly accessible channels provided by their copyright holders (including but not limited to official conference proceedings, journal portals, and arXiv.org). The original documents have not been modified in any way.
+2.  **Purpose of Use:** These papers are archived here for the sole purpose of facilitating personal academic organization, review, and research. This repository is not intended for commercial use, and there is no intention to infringe upon copyright.
+3.  **Copyright Ownership:** All rights, title, and interest in and to the papers remain with their original authors, their affiliated institutions, or their publishers. The existence of this repository does not grant any rights to these works.
+4.  **Citation and Use:** If you intend to cite or use any content from these papers, please adhere to proper academic standards and consult the original publication for accurate citation information.
 
-# 3. fMRI to 3D <div id = "s3"></div>
-
-**章节介绍**
-
-- [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
-  
-  *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/your-image-asset-id" width="50%">
-</div>
-
-<details close>
-<summary><b>📋 Abstract (Click to Expand)</b></summary>
-Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
-</details>
-
-# 4. EEG to 2D Image <div id = "s4"></div>
-
-**章节介绍**
-
-- [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
-  
-  *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/your-image-asset-id" width="50%">
-</div>
-
-<details close>
-<summary><b>📋 Abstract (Click to Expand)</b></summary>
-Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
-</details>
-
-# 5. EEG Big Model <div id = "s5"></div>
-
-**章节介绍**
-
-- [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
-  
-  *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/your-image-asset-id" width="50%">
-</div>
-
-<details close>
-<summary><b>📋 Abstract (Click to Expand)</b></summary>
-Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
-</details>
-
-# 6. fMRI to 2D Image <div id = "s6"></div>
-
-**章节介绍**
-
-- [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
-  
-  *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/your-image-asset-id" width="50%">
-</div>
-
-<details close>
-<summary><b>📋 Abstract (Click to Expand)</b></summary>
-Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
-</details>
-
-# 7. fMRI to Video
-
-**章节介绍**
-
-- [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
-  
-  *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/your-image-asset-id" width="50%">
-</div>
-
-<details close>
-<summary><b>📋 Abstract (Click to Expand)</b></summary>
-Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
-</details>
-
-# 8. EEG and fMRI to 2D Image
-
-**章节介绍**
-
-- [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
-  
-  *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/your-image-asset-id" width="50%">
-</div>
-
-<details close>
-<summary><b>📋 Abstract (Click to Expand)</b></summary>
-Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
-</details>
-
-# 9. Neurals to Other
-
-**章节介绍**
-
-- [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
-  
-  *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/your-image-asset-id" width="50%">
-</div>
-
-<details close>
-<summary><b>📋 Abstract (Click to Expand)</b></summary>
-Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
-</details>
-
-# 10. 3D Generation
-
-**章节介绍**
-
-- [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
-  
-  *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/your-image-asset-id" width="50%">
-</div>
-
-<details close>
-<summary><b>📋 Abstract (Click to Expand)</b></summary>
-Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
-</details>
-
-# 11. Image to Image
-
-**章节介绍**
-
-- [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
-  
-  *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/your-image-asset-id" width="50%">
-</div>
-
-<details close>
-<summary><b>📋 Abstract (Click to Expand)</b></summary>
-Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
-</details>
-
-# 12. Base Tech Paper
-
-**章节介绍**
-
-- [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
-  
-  *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/your-image-asset-id" width="50%">
-</div>
-
-<details close>
-<summary><b>📋 Abstract (Click to Expand)</b></summary>
-Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
-</details>
-
-# 13. Dataset
-
-**章节介绍**
-
-- [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
-  
-  *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/your-image-asset-id" width="50%">
-</div>
-
-<details close>
-<summary><b>📋 Abstract (Click to Expand)</b></summary>
-Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
-</details>
-
-# 14. EEG to Text
-
-**章节介绍**
-
-- [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
-  
-  *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/your-image-asset-id" width="50%">
-</div>
-
-<details close>
-<summary><b>📋 Abstract (Click to Expand)</b></summary>
-Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
-</details>
+The maintainer of this repository assumes no liability for any direct or indirect legal issues that may arise from the use of its contents.
 
 ## 🙏 Acknowledgements
 We thank the authors of the cited papers and the open-source community for their contributions.  
@@ -301,5 +95,6 @@ This list is compiled for academic reference only; copyrights for the papers bel
 
 
 [![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,65:4F46E5,100:22D3EE&text=Back%20to%20Top&section=footer&fontSize=30&fontAlignY=65&fontColor=FFFFFF)](#top)
+
 
 
