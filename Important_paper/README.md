@@ -27,3 +27,5 @@ Human's perception of the visual world is shaped by the stereo processing of 3D 
 <summary><b>📋 Abstract (Click to Expand)</b></summary>
 Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
 </details>
+
+[![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,65:4F46E5,100:22D3EE&text=Click%20and%20Back%20to%20Content&section=footer&fontSize=30&fontAlignY=65&fontColor=FFFFFF)](../README.md)
