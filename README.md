@@ -139,7 +139,7 @@ Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要
 Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
 </details>
 
-# 7. fMRI to Video <div id = "s7"></div>
+# 7. fMRI to Video
 
 **章节介绍**
 
@@ -156,7 +156,7 @@ Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要
 Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
 </details>
 
-# 8. EEG and fMRI to 2D Image <div id = "s8"></div>
+# 8. EEG and fMRI to 2D Image
 
 **章节介绍**
 
@@ -173,7 +173,7 @@ Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要
 Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
 </details>
 
-# 9. Neurals to Other <div id = "s9"></div>
+# 9. Neurals to Other
 
 **章节介绍**
 
@@ -190,7 +190,7 @@ Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要
 Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
 </details>
 
-# 10. 3D Generation <div id = "s10"></div>
+# 10. 3D Generation
 
 **章节介绍**
 
@@ -207,7 +207,7 @@ Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要
 Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
 </details>
 
-# 11. Image to Image <div id = "s11"></div>
+# 11. Image to Image
 
 **章节介绍**
 
@@ -224,7 +224,7 @@ Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要
 Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
 </details>
 
-# 12. Base Tech Paper <div id = "s12"></div>
+# 12. Base Tech Paper
 
 **章节介绍**
 
@@ -241,7 +241,7 @@ Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要
 Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
 </details>
 
-# 13. Dataset <div id = "s13"></div>
+# 13. Dataset
 
 **章节介绍**
 
@@ -258,7 +258,7 @@ Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要
 Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
 </details>
 
-# 14. EEG to Text <div id = "s14"></div>
+# 14. EEG to Text
 
 **章节介绍**
 
@@ -301,4 +301,5 @@ This list is compiled for academic reference only; copyrights for the papers bel
 
 
 [![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,65:4F46E5,100:22D3EE&text=Back%20to%20Top&section=footer&fontSize=30&fontAlignY=65&fontColor=FFFFFF)](#top)
+
 
