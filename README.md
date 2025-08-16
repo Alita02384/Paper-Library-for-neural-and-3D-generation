@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,65:4F46E5,100:22D3EE&text=🌟%20Paper%20List%20for%20Neural%20and%203D%20Generation&fontSize=30&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&desc=%E2%80%94%20Jionghao%20Cheng&descAlign=87&descAlignY=60&descSize=20)](#top)
+[![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,65:4F46E5,100:22D3EE&text=🌟%20Paper%20Library%20for%20Neural%20and%203D%20Generation&fontSize=30&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&desc=%E2%80%94%20Jionghao%20Cheng&descAlign=87&descAlignY=60&descSize=20)](#top)
 
 </div>
 
@@ -101,6 +101,7 @@ This list is compiled for academic reference only; copyrights for the papers bel
 
 
 [![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,65:4F46E5,100:22D3EE&text=Back%20to%20Top&section=footer&fontSize=30&fontAlignY=65&fontColor=FFFFFF)](#top)
+
 
 
 
