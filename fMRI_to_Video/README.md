@@ -1,4 +1,4 @@
-# 7. fMRI to Video <div id = "s7"></div>
+# 7. fMRI to Video
 
 **章节介绍**
 
@@ -14,3 +14,4 @@
 <summary><b>📋 Abstract (Click to Expand)</b></summary>
 Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
 </details>
+
