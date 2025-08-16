@@ -40,7 +40,7 @@
 - [**5. EEG Big Model**](EEG_Big_Model/README.md)
 - [**6. fMRI to 2D Image**](fMRI_to_2D_Image/README.md)
 - [**7. fMRI to Video**](fMRI_to_Video/README.md)
-- [**8. EEG and fMRI to 2D Image**](EEG_and_fMRI_to_2D _Image/README.md)
+- [**8. EEG and fMRI to 2D Image**](EEG_and_fMRI_to_2D_Image/README.md)
 - [**9. Neurals to Other**](Neurals_to_Other/README.md)
 - [**10. 3D Generation**](3D_Generation/README.md)
 - [**11. Image to Image**](Image_to_Image/README.md)
@@ -95,6 +95,7 @@ This list is compiled for academic reference only; copyrights for the papers bel
 
 
 [![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,65:4F46E5,100:22D3EE&text=Back%20to%20Top&section=footer&fontSize=30&fontAlignY=65&fontColor=FFFFFF)](#top)
+
 
 
 
