@@ -34,9 +34,13 @@
 
 ## Introduce
 
-A shared library of papers in the field of neural signal-to-3D generation. Members can add papers in related areas or explore new areas at any time. Notes on papers after reading them are recorded in the README.md file in the corresponding folder. This facilitates sharing of papers and their thoughts among members.
+In our research, we observed that team members read a vast number of papers, often with little overlap. The common practice of sharing reading notes via separate PowerPoint files is not only inefficient for academic exchange but also frequently leads to knowledge being misplaced or forgotten. This fragmented approach hinders the creation of a collective knowledge base and makes it difficult to track and build upon each other's work.
 
-一个神经信号-3D生成领域的共享论文库，成员可以随时添加相关方向的论文，或者开辟新的方向。将阅读后论文的笔记记录在对应文件夹的README.md里。方便成员之间共享论文以及阅读后的想法。
+To solve this, we created this shared repository for the field of Neural Signal Processing and 3D Generation. Here, members can add relevant papers, open up new research topics, and record their notes and insights directly in the README.md file of the corresponding folder. This centralized system is designed to create a transparent, collaborative, and sustainable knowledge base, making it much easier to share findings and stimulate new ideas within the team.
+
+我们注意到在科研过程中，团队成员需要阅读大量论文，但阅读内容往往不尽相同。以往通过PPT等独立文件传递阅读笔记的方式，不仅降低了学术交流的效率，还常常导致笔记和想法的遗失或遗忘。这种分散的方式阻碍了团队集体知识的沉淀，也难以追踪和借鉴彼此的工作。
+
+为了解决这个问题，我们建立了这个专注于神经信号处理与3D生成领域的共享论文库。成员可以在此随时添加相关论文，开辟新的研究方向，并将阅读笔记直接记录在对应文件夹的README.md中。我们希望通过这个集中式的系统，构建一个透明、协作且可持续增长的知识库，从而更方便地共享研究心得，激发团队新的想法。
 
 ## 📇 Contents
 - [**1. Important Paper for us**](Important_paper/README.md)
@@ -107,6 +111,7 @@ This list is compiled for academic reference only; copyrights for the papers bel
 
 
 [![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,65:4F46E5,100:22D3EE&text=Back%20to%20Top&section=footer&fontSize=30&fontAlignY=65&fontColor=FFFFFF)](#top)
+
 
 
 
