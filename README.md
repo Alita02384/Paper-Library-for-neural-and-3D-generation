@@ -73,6 +73,8 @@ Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要
 
 # 3. fMRI to 3D <div id = "s3"></div>
 
+**章节介绍**
+
 - [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
   
   *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
@@ -87,6 +89,8 @@ Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要
 </details>
 
 # 4. EEG to 2D Image <div id = "s4"></div>
+
+**章节介绍**
 
 - [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
   
@@ -103,6 +107,8 @@ Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要
 
 # 5. EEG Big Model <div id = "s5"></div>
 
+**章节介绍**
+
 - [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
   
   *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
@@ -117,6 +123,8 @@ Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要
 </details>
 
 # 6. fMRI to 2D Image <div id = "s6"></div>
+
+**章节介绍**
 
 - [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
   
@@ -133,6 +141,8 @@ Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要
 
 # 7. fMRI to Video <div id = "s7"></div>
 
+**章节介绍**
+
 - [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
   
   *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
@@ -147,6 +157,8 @@ Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要
 </details>
 
 # 8. EEG and fMRI to 2D Image <div id = "s8"></div>
+
+**章节介绍**
 
 - [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
   
@@ -163,6 +175,8 @@ Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要
 
 # 9. Neurals to Other <div id = "s9"></div>
 
+**章节介绍**
+
 - [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
   
   *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
@@ -177,6 +191,8 @@ Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要
 </details>
 
 # 10. 3D Generation <div id = "s10"></div>
+
+**章节介绍**
 
 - [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
   
@@ -193,6 +209,8 @@ Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要
 
 # 11. Image to Image <div id = "s11"></div>
 
+**章节介绍**
+
 - [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
   
   *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
@@ -207,6 +225,8 @@ Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要
 </details>
 
 # 12. Base Tech Paper <div id = "s12"></div>
+
+**章节介绍**
 
 - [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
   
@@ -223,6 +243,8 @@ Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要
 
 # 13. Dataset <div id = "s13"></div>
 
+**章节介绍**
+
 - [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
   
   *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
@@ -237,6 +259,8 @@ Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要
 </details>
 
 # 14. EEG to Text <div id = "s14"></div>
+
+**章节介绍**
 
 - [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
   
@@ -277,3 +301,4 @@ This list is compiled for academic reference only; copyrights for the papers bel
 
 
 [![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,65:4F46E5,100:22D3EE&text=Back%20to%20Top&section=footer&fontSize=30&fontAlignY=65&fontColor=FFFFFF)](#top)
+
