@@ -8,11 +8,11 @@
 
 <div align="center">
   
-[![](https://img.shields.io/github/stars/Alita02384/Paperlist-for-neural-and-3D-generation)](https://github.com/Alita02384/Paperlist-for-neural-and-3D-generation)
-[![](https://img.shields.io/github/forks/Alita02384/Paperlist-for-neural-and-3D-generation)](https://github.com/Alita02384/Paperlist-for-neural-and-3D-generation)
-[![](https://img.shields.io/github/issues/Alita02384/Paperlist-for-neural-and-3D-generation)](https://github.com/Alita02384/Paperlist-for-neural-and-3D-generation/issues)
-[![](https://img.shields.io/github/license/Alita02384/Paperlist-for-neural-and-3D-generation)](https://github.com/Alita02384/Paperlist-for-neural-and-3D-generation/blob/main/LICENSE) 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAlita02384%2FPaperlist-for-neural-and-3D-generation&label=visitors&countColor=%2337d67a&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAlita02384%2FPaperlist-for-neural-and-3D-generation)
+[![](https://img.shields.io/github/stars/Alita02384/Paper-Library-for-neural-and-3D-generation)](https://github.com/Alita02384/Paper-Library-for-neural-and-3D-generation)
+[![](https://img.shields.io/github/forks/Alita02384/Paper-Library-for-neural-and-3D-generation)](https://github.com/Alita02384/Paper-Library-for-neural-and-3D-generation)
+[![](https://img.shields.io/github/issues/Alita02384/Paper-Library-for-neural-and-3D-generation)](https://github.com/Alita02384/Paper-Library-for-neural-and-3D-generation/issues)
+[![](https://img.shields.io/github/license/Alita02384/Paper-Library-for-neural-and-3D-generation)](https://github.com/Alita02384/Paper-Library-for-neural-and-3D-generation/blob/main/LICENSE) 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAlita02384%2FPaper-Library-for-neural-and-3D-generation&label=visitors&countColor=%2337d67a&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAlita02384%2FPaper-Library-for-neural-and-3D-generation)
 
 </div>
 
@@ -100,17 +100,18 @@ This list is compiled for academic reference only; copyrights for the papers bel
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Alita02384/Paperlist-for-neural-and-3D-generation}}
+  howpublished = {\url{https://github.com/Alita02384/Paper-Library-for-neural-and-3D-generation}}
 }
 ```
 
   ## 🥰 Star History
 <div id = "s0"></div>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Alita02384/Paperlist-for-neural-and-3D-generation&type=Timeline)](https://www.star-history.com/#Alita02384/Paperlist-for-neural-and-3D-generation&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=Alita02384/Paper-Library-for-neural-and-3D-generation&type=Timeline)](https://www.star-history.com/#Alita02384/Paper-Library-for-neural-and-3D-generation&Timeline)
 
 
 [![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,65:4F46E5,100:22D3EE&text=Back%20to%20Top&section=footer&fontSize=30&fontAlignY=65&fontColor=FFFFFF)](#top)
+
 
 
 
