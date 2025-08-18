@@ -23,7 +23,14 @@ Human's perception of the visual world is shaped by the stereo processing of 3D 
 </details>
 
 ## [[CVPR 2025] **NSD-Imagery: A benchmark dataset for extending fMRI vision decoding methods to mental imagery**](https://arxiv.org/abs/2506.06898)
-  
+<details close>
+<summary><b>📋 为什么加入fMRI的数据集进行对比？ </b></summary>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9e839734-68aa-4bb9-8e1b-6fa1a5e3d213" width="80%">
+</div>
+      论文通过fMRI重建3D的不足与缺陷引出EEG重建3D的优点与创新，所以在数据集对比时会加入相关的fMRI数据集
+</details>
+
   *Reese Kneeland, Paul S. Scotti, Ghislain St-Yves, Jesse Breedlove, Kendrick Kay, Thomas Naselaris* [:octocat:code](https://www.naturalscenesdataset.org/)
 
 <div align="center">
@@ -59,6 +66,21 @@ Human's perception of the visual world is shaped by the stereo processing of 3D 
     *   全球每年有 5000 万人遭受创伤性脑损伤，其中约 15-20% 的患者可能处于“隐蔽性意识（covertly conscious）”状态，即外表看起来没有反应，但内心仍有意识。
     *   利用这种非侵入性的脑成像技术，来解码出患者想象的可验证内容（比如问一个只有他知道答案的问题，让他想象答案），可以帮助准确诊断这类患者，从而**防止生命支持系统被过早地撤除**。
 </details>
+
+- [[CVPR 2023] **High-resolution image reconstruction with latent diffusion models from human brain activity**](High-resolution_image_reconstruction_with_latent_diffusion_models_from_human_brain_activity.pdf)
+  
+  *Yu Takagi, Shinji Nishimoto* [:octocat:code](https://sites.google.com/view/stablediffusion-with-brain/)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/edf9a662-df79-4441-80d0-81faef41000b" width="40%">
+</div>
+
+<details close>
+<summary><b>📋 Abstract (Click to Expand)</b></summary>
+Reconstructing visual experiences from human brain activity offers a unique way to understand how the brain represents the world, and to interpret the connection between computer vision models and our visual system. While deep generative models have recently been employed for this task, reconstructing realistic images with high semantic fidelity is still a challenging problem. Here, we propose a new method based on a diffusion model (DM) to reconstruct images from human brain activity obtained via functional magnetic resonance imaging (fMRI). More specifically, we rely on a latent diffusion model (LDM) termed Stable Diffusion. This model reduces the computational cost of DMs, while preserving their high generative performance. We also characterize the inner mechanisms of the LDM by studying how its different components (such as the latent vector of image Z, conditioning inputs C, and different elements of the denoising U-Net) relate to distinct brain functions. We show that our proposed method can reconstruct high-resolution images with high fidelity in straight-forward fashion, without the need for any additional training and fine-tuning of complex deep-learning models. We also provide a quantitative interpretation of different LDM components from a neuroscientific perspective. Overall, our study proposes a promising method for reconstructing images from human brain activity, and provides a new framework for understanding DMs.
+</details>
+
+- [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
 
 ## [[CVPR 2025] **Bridging the Vision-Brain Gap with an Uncertainty-Aware Blur Prior**](https://arxiv.org/abs/2503.04207)
   
@@ -105,7 +127,7 @@ Human's perception of the visual world is shaped by the stereo processing of 3D 
     *   **Top-1 准确率达到 50.9%**（比之前最好的方法高了13.7个百分点）。
     *   **Top-5 准确率达到 79.7%**（比之前最好的方法高了9.8个百分点）。
     *   这是一个非常显著的性能提升，证明了该方法的有效性。
-    
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/dbb5e2b6-f176-42ca-b684-24503a986f61" width="80%">
 </div>
