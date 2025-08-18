@@ -30,6 +30,19 @@ Human's perception of the visual world is shaped by the stereo processing of 3D 
       论文通过fMRI重建3D的不足与缺陷引出EEG重建3D的优点与创新，所以在数据集对比时会加入相关的fMRI数据集
 </details>
 
+- [[CVPR 2025] **High-resolution image reconstruction with latent diffusion models from human brain activity**]()
+  
+  *Yu Takagi, Shinji Nishimoto [:octocat:code](https://sites.google.com/view/stablediffusion-with-brain/)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/your-image-asset-id" width="50%">
+</div>
+
+<details close>
+<summary><b>📋 Abstract (Click to Expand)</b></summary>
+Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
+</details>
+
 - [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
   
   *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
