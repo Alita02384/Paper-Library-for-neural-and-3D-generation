@@ -16,7 +16,7 @@ Human's perception of the visual world is shaped by the stereo processing of 3D 
 </details>
 
 <details close>
-<summary><b>📋 对比实验调研 2025.8.15 cyf</b></summary>
+<summary><b>📋 对比实验调研 </b></summary>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/93cfe9fb-49ae-4d40-b1ed-cd12389a0cd8" width="80%">
 </div>
