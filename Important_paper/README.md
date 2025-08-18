@@ -30,17 +30,17 @@ Human's perception of the visual world is shaped by the stereo processing of 3D 
       论文通过fMRI重建3D的不足与缺陷引出EEG重建3D的优点与创新，所以在数据集对比时会加入相关的fMRI数据集
 </details>
 
-- [[CVPR 2023] **High-resolution image reconstruction with latent diffusion models from human brain activity**]()
+- [[CVPR 2023] **High-resolution image reconstruction with latent diffusion models from human brain activity**](High-resolution_image_reconstruction_with_latent_diffusion_models_from_human_brain_activity.pdf)
   
-  *Yu Takagi, Shinji Nishimoto [:octocat:code](https://sites.google.com/view/stablediffusion-with-brain/)
+  *Yu Takagi, Shinji Nishimoto* [:octocat:code](https://sites.google.com/view/stablediffusion-with-brain/)
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/your-image-asset-id" width="50%">
+  <img src="https://github.com/user-attachments/assets/edf9a662-df79-4441-80d0-81faef41000b" width="40%">
 </div>
 
 <details close>
 <summary><b>📋 Abstract (Click to Expand)</b></summary>
-Your abstract content goes here. 可以去arivx搜文章名字然后复制摘要。
+Reconstructing visual experiences from human brain activity offers a unique way to understand how the brain represents the world, and to interpret the connection between computer vision models and our visual system. While deep generative models have recently been employed for this task, reconstructing realistic images with high semantic fidelity is still a challenging problem. Here, we propose a new method based on a diffusion model (DM) to reconstruct images from human brain activity obtained via functional magnetic resonance imaging (fMRI). More specifically, we rely on a latent diffusion model (LDM) termed Stable Diffusion. This model reduces the computational cost of DMs, while preserving their high generative performance. We also characterize the inner mechanisms of the LDM by studying how its different components (such as the latent vector of image Z, conditioning inputs C, and different elements of the denoising U-Net) relate to distinct brain functions. We show that our proposed method can reconstruct high-resolution images with high fidelity in straight-forward fashion, without the need for any additional training and fine-tuning of complex deep-learning models. We also provide a quantitative interpretation of different LDM components from a neuroscientific perspective. Overall, our study proposes a promising method for reconstructing images from human brain activity, and provides a new framework for understanding DMs.
 </details>
 
 - [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
