@@ -22,6 +22,14 @@ Human's perception of the visual world is shaped by the stereo processing of 3D 
 </div>
 </details>
 
+<details close>
+<summary><b>📋 为什么加入fMRI的数据集进行对比？ </b></summary>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9e839734-68aa-4bb9-8e1b-6fa1a5e3d213" width="80%">
+</div>
+      论文通过fMRI重建3D的不足与缺陷引出EEG重建3D的优点与创新，所以在数据集对比时会加入相关的fMRI数据集
+</details>
+
 - [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
   
   *Author, First and Author, Second and Author, Third* [:octocat:code](https://github.com/username/repository)
