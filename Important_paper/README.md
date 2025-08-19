@@ -135,7 +135,7 @@ Reconstructing visual experiences from human brain activity offers a unique way 
 **一句话总结：** 这篇论文不再强求模型去学习一个从“噪声信号”到“高清图像”的不可能任务，而是通过智能地“模糊”高清图像，创造了一个从“噪声信号”到“模糊图像”的更简单的任务，结果效果拔群。
 </details>
 
-## [[HC 2024] **Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion**](https://arxiv.org/abs/2403.07721)
+## [**Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion**](https://arxiv.org/abs/2403.07721)
   
   *Dongyang Li, Chen Wei, Shiying Li, Jiachen Zou, Haoyang Qin, Quanying Liu* [:octocat:code](https://github.com/ncclab-sustech/EEG_Image_decode)
 
@@ -154,6 +154,27 @@ How to decode human vision through neural signals has attracted a long-standing 
   <img src="https://github.com/user-attachments/assets/53ec3ad6-5dc1-4b8f-a3ac-359e4b12f69a" width="80%">
 </div>
   这篇论文因为是首个提出EEG解码重建3D模型，算是开拓了一个小的新领域，所以比起其它论文的Introduction，多了一步从fMRI到EEG领域的过渡，再提出该领域的问题与不足，最后提出自己解决该问题的模型。
+</details>
+
+## [**3D-Telepathy: Reconstructing 3D Objects from EEG Signals**](https://arxiv.org/abs/2403.07721)
+  
+  *Yuxiang Ge, Jionghao Cheng, Ruiquan Ge, Zhaojie Fang, Gangyong Jia, Xiang Wan, Nannan Li, Ahmed Elazab, Changmiao Wang* [:octocat:code](https://github.com/gegen666/EEGTo3D)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/36cf8367-6bb2-40cc-8e6b-d6a58aa67b62" width="80%">
+</div>
+
+<details close>
+<summary><b>📋 Abstract (Click to Expand)</b></summary>
+Reconstructing 3D visual stimuli from Electroencephalography (EEG) data holds significant potential for applications in Brain-Computer Interfaces (BCIs) and aiding individuals with communication disorders. Traditionally, efforts have focused on converting brain activity into 2D images, neglecting the translation of EEG data into 3D objects. This limitation is noteworthy, as the human brain inherently processes three-dimensional spatial information regardless of whether observing 2D images or the real world. The neural activities captured by EEG contain rich spatial information that is inevitably lost when reconstructing only 2D images, thus limiting its practical applications in BCI. The transition from EEG data to 3D object reconstruction faces considerable obstacles. These include the presence of extensive noise within EEG signals and a scarcity of datasets that include both EEG and 3D information, which complicates the extraction process of 3D visual data. Addressing this challenging task, we propose an innovative EEG encoder architecture that integrates a dual self-attention mechanism. We use a hybrid training strategy to train the EEG Encoder, which includes cross-attention, contrastive learning, and self-supervised learning techniques. Additionally, by employing stable diffusion as a prior distribution and utilizing Variational Score Distillation to train a neural radiation field, we successfully generate 3D objects with similar content and structure from EEG data.
+</details>
+
+<details close>
+<summary><b>📋 2025.8.19 Introduction cyf</b></summary>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/65ca13c1-c6bd-455b-acbc-ae89be64d47e" width="80%">
+</div>
+  大体以这个方向科研的意义作为开头和引入，讲到现在科研的进度以及缺陷/不足，由此引出自己解决这个问题的模型，顺便简单提了自己科研工作的创新点和意义。
 </details>
 
 [![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,65:4F46E5,100:22D3EE&text=Click%20and%20Back%20to%20Content&section=footer&fontSize=30&fontAlignY=65&fontColor=FFFFFF)](../README.md)
