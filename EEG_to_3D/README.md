@@ -21,7 +21,7 @@ With the rapid development of artificial intelligence and neuroscience, existing
   <img src="https://github.com/user-attachments/assets/c5bece85-d0cb-41a1-b270-eb69fb7a54c8" width="80%">
 <div align="center">
   <img src="https://github.com/user-attachments/assets/93f8c942-618d-40cf-85e6-b5cbce913936" width="80%">
-</div
+</div>
  大体以这个方向科研的意义作为开头和引入，讲到现在科研的进度以及缺陷/不足，由此引出自己解决这个问题的模型，顺便简单提了自己科研工作的创新点和意义。 
 </details>
 
