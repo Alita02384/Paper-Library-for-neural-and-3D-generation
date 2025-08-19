@@ -22,14 +22,15 @@ Human's perception of the visual world is shaped by the stereo processing of 3D 
 </div>
 </details>
 
-## [[CVPR 2025] **NSD-Imagery: A benchmark dataset for extending fMRI vision decoding methods to mental imagery**](https://arxiv.org/abs/2506.06898)
-<details close>
 <summary><b>📋 为什么加入fMRI的数据集进行对比？ </b></summary>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9e839734-68aa-4bb9-8e1b-6fa1a5e3d213" width="80%">
 </div>
       论文通过fMRI重建3D的不足与缺陷引出EEG重建3D的优点与创新，所以在数据集对比时会加入相关的fMRI数据集
 </details>
+
+## [[CVPR 2025] **NSD-Imagery: A benchmark dataset for extending fMRI vision decoding methods to mental imagery**](https://arxiv.org/abs/2506.06898)
+<details close>
 
   *Reese Kneeland, Paul S. Scotti, Ghislain St-Yves, Jesse Breedlove, Kendrick Kay, Thomas Naselaris* [:octocat:code](https://www.naturalscenesdataset.org/)
 
