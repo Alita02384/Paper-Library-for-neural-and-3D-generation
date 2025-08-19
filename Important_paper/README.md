@@ -22,7 +22,8 @@ Human's perception of the visual world is shaped by the stereo processing of 3D 
 </div>
 </details>
 
-<summary><b>📋 为什么加入fMRI的数据集进行对比？ </b></summary>
+<details close>
+<summary><b>📋 为什么加入fMRI的数据集进行对比 cyf </b></summary>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9e839734-68aa-4bb9-8e1b-6fa1a5e3d213" width="80%">
 </div>
