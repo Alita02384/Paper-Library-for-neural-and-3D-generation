@@ -7,7 +7,7 @@
   *Jianghao Liu, Minye Zhan, Dounia Hajhajate, Alfredo Spagna, Stanislas Dehaene, Laurent Cohen, Paolo Bartolomeo* [:octocat:code](https://osf.io/v8u4k/)
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/your-image-asset-id" width="50%">
+  <img src="https://github.com/user-attachments/assets/7476560d-958e-4344-b79a-3725d769c424" width="50%">
 </div>
 
 <details close>
