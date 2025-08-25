@@ -22,14 +22,16 @@ Human's perception of the visual world is shaped by the stereo processing of 3D 
 </div>
 </details>
 
-## [[CVPR 2025] **NSD-Imagery: A benchmark dataset for extending fMRI vision decoding methods to mental imagery**](https://arxiv.org/abs/2506.06898)
 <details close>
-<summary><b>📋 为什么加入fMRI的数据集进行对比？ </b></summary>
+<summary><b>📋 2025.8.18 为什么加入fMRI的数据集 cyf </b></summary>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9e839734-68aa-4bb9-8e1b-6fa1a5e3d213" width="80%">
 </div>
       论文通过fMRI重建3D的不足与缺陷引出EEG重建3D的优点与创新，所以在数据集对比时会加入相关的fMRI数据集
 </details>
+
+## [[CVPR 2025] **NSD-Imagery: A benchmark dataset for extending fMRI vision decoding methods to mental imagery**](https://arxiv.org/abs/2506.06898)
+<details close>
 
   *Reese Kneeland, Paul S. Scotti, Ghislain St-Yves, Jesse Breedlove, Kendrick Kay, Thomas Naselaris* [:octocat:code](https://www.naturalscenesdataset.org/)
 
@@ -67,7 +69,7 @@ Human's perception of the visual world is shaped by the stereo processing of 3D 
     *   利用这种非侵入性的脑成像技术，来解码出患者想象的可验证内容（比如问一个只有他知道答案的问题，让他想象答案），可以帮助准确诊断这类患者，从而**防止生命支持系统被过早地撤除**。
 </details>
 
-- [[CVPR 2023] **High-resolution image reconstruction with latent diffusion models from human brain activity**](High-resolution_image_reconstruction_with_latent_diffusion_models_from_human_brain_activity.pdf)
+## [[CVPR 2023] **High-resolution image reconstruction with latent diffusion models from human brain activity**](===)
   
   *Yu Takagi, Shinji Nishimoto* [:octocat:code](https://sites.google.com/view/stablediffusion-with-brain/)
 
@@ -79,8 +81,6 @@ Human's perception of the visual world is shaped by the stereo processing of 3D 
 <summary><b>📋 Abstract (Click to Expand)</b></summary>
 Reconstructing visual experiences from human brain activity offers a unique way to understand how the brain represents the world, and to interpret the connection between computer vision models and our visual system. While deep generative models have recently been employed for this task, reconstructing realistic images with high semantic fidelity is still a challenging problem. Here, we propose a new method based on a diffusion model (DM) to reconstruct images from human brain activity obtained via functional magnetic resonance imaging (fMRI). More specifically, we rely on a latent diffusion model (LDM) termed Stable Diffusion. This model reduces the computational cost of DMs, while preserving their high generative performance. We also characterize the inner mechanisms of the LDM by studying how its different components (such as the latent vector of image Z, conditioning inputs C, and different elements of the denoising U-Net) relate to distinct brain functions. We show that our proposed method can reconstruct high-resolution images with high fidelity in straight-forward fashion, without the need for any additional training and fine-tuning of complex deep-learning models. We also provide a quantitative interpretation of different LDM components from a neuroscientific perspective. Overall, our study proposes a promising method for reconstructing images from human brain activity, and provides a new framework for understanding DMs.
 </details>
-
-- [[CONFERENCE YEAR] **Paper Title Goes Here**](/path-to-paper)
 
 ## [[CVPR 2025] **Bridging the Vision-Brain Gap with an Uncertainty-Aware Blur Prior**](https://arxiv.org/abs/2503.04207)
   
@@ -133,6 +133,48 @@ Reconstructing visual experiences from human brain activity offers a unique way 
 </div>
 
 **一句话总结：** 这篇论文不再强求模型去学习一个从“噪声信号”到“高清图像”的不可能任务，而是通过智能地“模糊”高清图像，创造了一个从“噪声信号”到“模糊图像”的更简单的任务，结果效果拔群。
+</details>
+
+## [**Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion**](https://arxiv.org/abs/2403.07721)
+  
+  *Dongyang Li, Chen Wei, Shiying Li, Jiachen Zou, Haoyang Qin, Quanying Liu* [:octocat:code](https://github.com/ncclab-sustech/EEG_Image_decode)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1ae594ad-527f-49b6-9cd3-632a6990abec" width="80%">
+</div>
+
+<details close>
+<summary><b>📋 Abstract (Click to Expand)</b></summary>
+How to decode human vision through neural signals has attracted a long-standing interest in neuroscience and machine learning. Modern contrastive learning and generative models improved the performance of visual decoding and reconstruction based on functional Magnetic Resonance Imaging (fMRI). However, the high cost and low temporal resolution of fMRI limit their applications in brain-computer interfaces (BCIs), prompting a high need for visual decoding based on electroencephalography (EEG). In this study, we present an end-to-end EEG-based visual reconstruction zero-shot framework, consisting of a tailored brain encoder, called the Adaptive Thinking Mapper (ATM), which projects neural signals from different sources into the shared subspace as the clip embedding, and a two-stage multi-pipe EEG-to-image generation strategy. In stage one, EEG is embedded to align the high-level clip embedding, and then the prior diffusion model refines EEG embedding into image priors. A blurry image also decoded from EEG for maintaining the low-level feature. In stage two, we input both the high-level clip embedding, the blurry image and caption from EEG latent to a pre-trained diffusion model. Furthermore, we analyzed the impacts of different time windows and brain regions on decoding and reconstruction. The versatility of our framework is demonstrated in the magnetoencephalogram (MEG) data modality. The experimental results indicate that our EEG-based visual zero-shot framework achieves SOTA performance in classification, retrieval and reconstruction, highlighting the portability, low cost, and high temporal resolution of EEG, enabling a wide range of BCI applications.
+</details>
+
+<details close>
+<summary><b>📋 2025.8.19 Introduction cyf</b></summary>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/53ec3ad6-5dc1-4b8f-a3ac-359e4b12f69a" width="80%">
+</div>
+  这篇论文因为是首个提出EEG解码重建3D模型，算是开拓了一个小的新领域，所以比起其它论文的Introduction，多了一步从fMRI到EEG领域的过渡，再提出该领域的问题与不足，最后提出自己解决该问题的模型。
+</details>
+
+## [**3D-Telepathy: Reconstructing 3D Objects from EEG Signals**](https://arxiv.org/abs/2403.07721)
+  
+  *Yuxiang Ge, Jionghao Cheng, Ruiquan Ge, Zhaojie Fang, Gangyong Jia, Xiang Wan, Nannan Li, Ahmed Elazab, Changmiao Wang* [:octocat:code](https://github.com/gegen666/EEGTo3D)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/36cf8367-6bb2-40cc-8e6b-d6a58aa67b62" width="80%">
+</div>
+
+<details close>
+<summary><b>📋 Abstract (Click to Expand)</b></summary>
+Reconstructing 3D visual stimuli from Electroencephalography (EEG) data holds significant potential for applications in Brain-Computer Interfaces (BCIs) and aiding individuals with communication disorders. Traditionally, efforts have focused on converting brain activity into 2D images, neglecting the translation of EEG data into 3D objects. This limitation is noteworthy, as the human brain inherently processes three-dimensional spatial information regardless of whether observing 2D images or the real world. The neural activities captured by EEG contain rich spatial information that is inevitably lost when reconstructing only 2D images, thus limiting its practical applications in BCI. The transition from EEG data to 3D object reconstruction faces considerable obstacles. These include the presence of extensive noise within EEG signals and a scarcity of datasets that include both EEG and 3D information, which complicates the extraction process of 3D visual data. Addressing this challenging task, we propose an innovative EEG encoder architecture that integrates a dual self-attention mechanism. We use a hybrid training strategy to train the EEG Encoder, which includes cross-attention, contrastive learning, and self-supervised learning techniques. Additionally, by employing stable diffusion as a prior distribution and utilizing Variational Score Distillation to train a neural radiation field, we successfully generate 3D objects with similar content and structure from EEG data.
+</details>
+
+<details close>
+<summary><b>📋 2025.8.19 Introduction cyf</b></summary>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/65ca13c1-c6bd-455b-acbc-ae89be64d47e" width="80%">
+</div>
+  大体以这个方向科研的意义作为开头和引入，讲到现在科研的进度以及缺陷/不足，由此引出自己解决这个问题的模型，顺便简单提了自己科研工作的创新点和意义。
 </details>
 
 [![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,65:4F46E5,100:22D3EE&text=Click%20and%20Back%20to%20Content&section=footer&fontSize=30&fontAlignY=65&fontColor=FFFFFF)](../README.md)

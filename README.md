@@ -16,9 +16,7 @@
 
 </div>
 
-**🦉 Contributors: [Jionghao Cheng (22' HDU Undergraduate)](https://github.com/Alita02384), [Yifan Chen (24' HDU Undergraduate)](), [Yifei Sun (22' HDU-ITMO Undergraduate)](https://diaoquesang.github.io/), [Junhao Jia (23' HDU Undergraduate)](https://github.com/BeistMedAI)**
-
-**🎓 DeepWiki: [Generating GitHub Knowledge Base Documentation in One Click](https://deepwiki.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection).**
+**🦉 Contributors: [Jionghao Cheng (22' HDU Undergraduate)](https://github.com/Alita02384), [Yifan Chen (24' HDU Undergraduate)](https://github.com/XFaning), [Changmiao Wang](https://github.com/jiandanjinxin), [Ruiquan Ge](https://github.com/greyspring)**
 
 **📦 Other resources: [1] [Paper-List-for-Medical-Anomaly-Detection](https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection), [2] [Paper List for Prototypical Learning](https://github.com/BeistMedAI/Paper-List-for-Prototypical-Learning), [3] [Paper List for Cell Detection](https://github.com/li00000011/Paper-List-for-Cell-Detection), [4] [Medical-AI-Guide](https://github.com/diaoquesang/Medical-AI-Guide/), [5] [Paper List for Medical Reasoning Large Language Models](https://github.com/HovChen/Paper-List-for-Medical-Reasoning-Large-Language-Models).**
 
