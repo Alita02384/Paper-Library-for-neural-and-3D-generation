@@ -55,6 +55,7 @@ To solve this, we created this shared repository for the field of Neural Signal 
 - [**12. Base Tech Paper**](Base_Tech_Paper/README.md)
 - [**13. Dataset**](Dataset/README.md)
 - [**14. EEG to Text**](EEG_to_Text/README.md)
+- [**15. Aphantasia**](Aphantasia/README.md)
 
 ## ✏️ Tips
 
