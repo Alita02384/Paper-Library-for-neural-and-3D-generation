@@ -31,7 +31,6 @@ Human's perception of the visual world is shaped by the stereo processing of 3D 
 </details>
 
 ## [[CVPR 2025] **NSD-Imagery: A benchmark dataset for extending fMRI vision decoding methods to mental imagery**](https://arxiv.org/abs/2506.06898)
-<details close>
 
   *Reese Kneeland, Paul S. Scotti, Ghislain St-Yves, Jesse Breedlove, Kendrick Kay, Thomas Naselaris* [:octocat:code](https://www.naturalscenesdataset.org/)
 
